@@ -6,7 +6,7 @@
 
 * To configure, start by editing database connection variables in .env.php in project root. 
 
-* Create database as selected on previous step. *Default is named 'pizza_app'*
+* Create MySQL database as selected on previous step. *Default is named 'pizza_app'*
 
 * Setup database tables by running the following command in project root
     <br/>
